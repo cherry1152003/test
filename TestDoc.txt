@@ -1,2 +1,6 @@
 This is Sharan.
+<<<<<<< HEAD
 This is Shravan.
+=======
+Sharan edited.
+>>>>>>> daa9f088233b1a9b8ab3e10b44cf6cf356d3ae85
